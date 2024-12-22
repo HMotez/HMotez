@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.fbsbx.com/v/t59.2708-21/470683049_896001826027274_2241094814983451779_n.gif?_nc_cat=108&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=jUnL4ZRuI-IQ7kNvgEQfixZ&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=ACSaOGr4QuAOqHnTMuG7INb&oh=03_Q7cD1gHiBso7iEJRCb6OUtvIApDtf8GXjioA_SnmCRYUvT9yOA&oe=676A69DD&dl=1" alt="Loading Spinner" width="100%" style="max-width: 800px;"/>
+  <img src="https://cdn.fbsbx.com/v/t59.2708-21/470683049_896001826027274_2241094814983451779_n.gif?_nc_cat=108&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=jUnL4ZRuI-IQ7kNvgEQfixZ&_nc_zt=7&_nc_ht=cdn.fbsbx.com&_nc_gid=ACSaOGr4QuAOqHnTMuG7INb&oh=03_Q7cD1gHiBso7iEJRCb6OUtvIApDtf8GXjioA_SnmCRYUvT9yOA&oe=676A69DD&dl=1" alt="Loading Spinner" width="90%" style="max-width: 300px;"/>
 </p>
 
 <p align="center">
