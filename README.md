@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzIzdWQ2MDRqZTRrZnNncGU0dmxuYTl3emtjeDNwamxoenNoajZlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Loading Spinner" width="100%" height="300""/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR0aHdhZXBpbTdiNDF1aWF0Nm55Y211NjFrOWo2eGsxcmhwemNqbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Loading Spinner" width="90%" height="400""/>
 </p>
 
 
