@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="Nft Coding GIF.gif" alt="Your GIF" width="100%" style="max-width: 300px;"/>
+    <img src="C:\Users\LENOVO\Desktop\TP_WEB\TP3\Nft Coding GIF.gif" alt="Your GIF" width="100%" style="max-width: 300px;"/>
 </p>
 
 
