@@ -15,6 +15,7 @@
 - **C** 
 - **C++**
 - **C#**
+- **Java**
 
 ## 🐝 Currently Learning
 
