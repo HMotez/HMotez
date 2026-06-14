@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Computer Science Student</strong> | Based in Tunisia | Passionate about technology
+  <strong>Software Engineering graduate</strong> | Based in Tunisia | Passionate about technology
 </p>
 
 ---
