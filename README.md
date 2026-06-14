@@ -121,3 +121,38 @@ I am committed to continuous learning and leveraging technology to create innova
 
 - 📚 Continuous learning in software engineering and Machine Learning  
 - 💻 Building and experimenting with personal and academic projects  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=HMotez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HMotez&theme=tokyonight&hide_border=true" width="48%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMotez&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=HMotez&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/HMotez)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always building. Always learning.*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=HMotez&color=4ab83f&style=flat-square&label=Profile+Views)
+
+</div>
