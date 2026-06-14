@@ -22,23 +22,21 @@
 
 ---
 
-## 🧠 Currently Learning
+## 🧠 Professional Interests & Continuous Development
 
-I am actively developing my skills in **Machine Learning**, with a focus on building a solid theoretical and practical foundation in:
+As a recent **Software Engineering graduate**, I am passionate about continuously expanding my expertise in emerging technologies and software development practices.
 
-- Python for Data Science  
-- NumPy and Pandas  
-- Data preprocessing and feature engineering  
-- Supervised learning (regression and classification)  
-- Unsupervised learning (clustering)  
-- Model evaluation and validation techniques  
-- Introduction to Scikit-learn  
+### Current Areas of Focus
 
-In parallel, I am strengthening my knowledge in core software engineering areas:
+- **Machine Learning & Artificial Intelligence** – Developing predictive models, data-driven solutions, and intelligent applications.
+- **Python & Data Science** – Working with data analysis, preprocessing, feature engineering, and machine learning frameworks.
+- **Java Development** – Building scalable and maintainable enterprise applications using object-oriented principles and modern development practices.
+- **Linux & System Administration** – Strengthening my understanding of operating systems, process management, networking, and server environments.
+- **Software Engineering Best Practices** – Applying software design principles, testing methodologies, version control, and agile development approaches.
 
-- **Java** – Exploring its versatility and robust ecosystem for building scalable, enterprise-level applications  
-- **Linux** – Expanding my foundational knowledge to cover operating system architecture, process management, and system administration  
+### Professional Goal
 
+I am committed to continuous learning and leveraging technology to create innovative, efficient, and impactful software solutions while growing as a software engineer and AI practitioner.
 ---
 
 ## ⚡ Technologies & Tools
