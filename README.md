@@ -32,15 +32,21 @@
 
 <img src="./assets/titles/projects.svg" height="48" alt="Featured projects" />
 
+<a href="https://medai-hmotez.onrender.com"><img src="./assets/medai.webp" width="100%" alt="AI Medical Assistant — landing page" /></a>
+
+<h3><img src="./assets/icons/stethoscope.svg" width="22" align="center" /> AI Medical Assistant <sub>· featured</sub></h3>
+
+AI-powered medical triage platform. Patients describe their symptoms in free text (English or French) and get the **top 5 likely conditions with calibrated probabilities**, an **urgency level**, the **right specialist** and a per-symptom explanation, plus red-flag safety rules. Results are reviewed by **verified doctors**, exported as bilingual **PDF reports**, and followed in a **3D health timeline**.
+
+<code>FastAPI</code> <code>React 19</code> <code>scikit-learn</code> <code>PostgreSQL</code> <code>Three.js</code> <code>Docker</code> &nbsp;·&nbsp; 87 % top-1 / 95 % top-3 accuracy
+
+<a href="https://medai-hmotez.onrender.com"><img src="https://img.shields.io/badge/Live_demo-f43f5e?style=flat-square&logo=render&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/HMotez/AI-Medical-Assistant"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
+
+<br/>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3><img src="./assets/icons/stethoscope.svg" width="22" align="center" /> AI Medical Assistant</h3>
-      <p>AI triage platform: describe symptoms in free text (EN/FR) and get calibrated top-5 conditions, urgency, the right specialist and per-symptom explanations, with verified-doctor review.</p>
-      <p><code>FastAPI</code> <code>React</code> <code>scikit-learn</code> <code>PostgreSQL</code> <code>Docker</code></p>
-      <a href="https://medai-hmotez.onrender.com"><img src="https://img.shields.io/badge/Live_demo-f43f5e?style=flat-square&logo=render&logoColor=white" alt="Live demo" /></a>
-      <a href="https://github.com/HMotez/AI-Medical-Assistant"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
-    </td>
     <td width="50%" valign="top">
       <h3><img src="./assets/icons/sparkles.svg" width="22" align="center" /> 3D Portfolio</h3>
       <p>Motion-design portfolio with real-time 3D: holographic portrait card, kinetic typography, smooth scroll, EN/FR and dark/light themes. Dockerized and deployed on Render.</p>
@@ -48,27 +54,19 @@
       <a href="https://portfolio-hmotez.onrender.com"><img src="https://img.shields.io/badge/Live_demo-22d3ee?style=flat-square&logo=render&logoColor=white" alt="Live demo" /></a>
       <a href="https://github.com/HMotez/MyPortfolio"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><img src="./assets/icons/shield.svg" width="22" align="center" /> TrueCare AI</h3>
       <p>Predicts medical reimbursement amounts and detects fraud from medical documents, insurance policies and regulations.</p>
       <p><code>Python</code> <code>Machine Learning</code> <code>NLP</code></p>
       <a href="https://github.com/HMotez/MedClaimML"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><img src="./assets/icons/school.svg" width="22" align="center" /> University SOA System</h3>
       <p>University management system built on REST and SOAP services, secured with JWT and orchestrated with Docker Compose.</p>
       <p><code>Spring Boot</code> <code>Java</code> <code>REST</code> <code>SOAP</code> <code>Docker</code></p>
       <a href="https://github.com/HMotez/University-SOA"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" alt="Code" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><img src="./assets/icons/file.svg" width="22" align="center" /> GED — ISO 9001 Quality System</h3>
-      <p>Document management for ACTIA Engineering Services: role-based validation workflows, real-time notifications and AI quality analysis.</p>
-      <p><code>Node.js</code> <code>React</code> <code>PostgreSQL</code> <code>Docker</code> <code>NLP</code></p>
-      <img src="https://img.shields.io/badge/Private-company_project-64748b?style=flat-square" alt="Private company project" />
     </td>
     <td width="50%" valign="top">
       <h3><img src="./assets/icons/hotel.svg" width="22" align="center" /> Hotel Management System</h3>
