@@ -83,26 +83,7 @@
 
 <img src="./assets/titles/stack.svg" height="48" alt="Tech stack" />
 
-<img src="./assets/icons/brain.svg" width="18" align="center" /> &nbsp;**AI & Data**<br/>
-<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,matlab&theme=dark" alt="Python, scikit-learn, TensorFlow, MATLAB" />
-
-<img src="./assets/icons/code.svg" width="18" align="center" /> &nbsp;**Programming Languages**<br/>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,cs,php,js&theme=dark" alt="Java, C, C++, C#, PHP, JavaScript" />
-
-<img src="./assets/icons/globe.svg" width="18" align="center" /> &nbsp;**Web Development**<br/>
-<img src="https://skillicons.dev/icons?i=react,threejs,vite,tailwind,html,css,bootstrap&theme=dark" alt="React, Three.js, Vite, Tailwind CSS, HTML, CSS, Bootstrap" />
-
-<img src="./assets/icons/server.svg" width="18" align="center" /> &nbsp;**Backend & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,dotnet&theme=dark" alt="Node.js, Express, FastAPI, Spring Boot, .NET" />
-
-<img src="./assets/icons/database.svg" width="18" align="center" /> &nbsp;**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="PostgreSQL, MySQL, MongoDB" /> &nbsp;<sub>+ Oracle</sub>
-
-<img src="./assets/icons/container.svg" width="18" align="center" /> &nbsp;**Systems & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes&theme=dark" alt="Linux, Git, GitHub, Docker, Kubernetes" />
-
-<img src="./assets/icons/gamepad.svg" width="18" align="center" /> &nbsp;**Other Tools**<br/>
-<img src="https://skillicons.dev/icons?i=qt,unity&theme=dark" alt="Qt, Unity" />
+<img src="./assets/stack.svg" width="100%" alt="Tech stack — AI & Data: Python, scikit-learn, TensorFlow, MATLAB. Languages: Java, C, C++, C#, PHP, JavaScript. Web: React, Three.js, Vite, Tailwind, HTML, CSS, Bootstrap. Backend: Node.js, Express, FastAPI, Spring, .NET. Databases: PostgreSQL, MySQL, MongoDB, Oracle. DevOps: Linux, Git, GitHub, Docker, Kubernetes. Other: Qt, Unity." />
 
 <br/>
 
