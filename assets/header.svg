@@ -178,7 +178,21 @@
 
   <!-- meta line -->
   <g class="rise" style="animation-delay:1s">
-    <text x="100" y="340" class="meta">&#128205; Monastir, Tunisia   &#183;   &#127891; ESPRIT — AI Engineering   &#183;   &#128640; Open to alternance</text>
+    <g transform="translate(100 325) scale(0.75)" fill="none" stroke="#22d3ee" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0" />
+  <circle cx="12" cy="10" r="3" />
+</g><text x="126" y="340" class="meta">Monastir, Tunisia</text>
+    <g transform="translate(290 325) scale(0.75)" fill="none" stroke="#a855f7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M21.42 10.922a1 1 0 0 0-.019-1.838L12.83 5.18a2 2 0 0 0-1.66 0L2.6 9.08a1 1 0 0 0 0 1.832l8.57 3.908a2 2 0 0 0 1.66 0z" />
+  <path d="M22 10v6" />
+  <path d="M6 12.5V16a6 3 0 0 0 12 0v-3.5" />
+</g><text x="316" y="340" class="meta">ESPRIT — AI Engineering</text>
+    <g transform="translate(520 325) scale(0.75)" fill="none" stroke="#ec4899" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5" />
+  <path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09" />
+  <path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z" />
+  <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05" />
+</g><text x="546" y="340" class="meta">Open to an alternance</text>
   </g>
   <rect width="1278" height="458" x="1" y="1" rx="25" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
 </g>
