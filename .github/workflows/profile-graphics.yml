@@ -1,0 +1,48 @@
+# Regenerates the animated graphics shown on the profile README:
+#  - profile-3d-contrib/*.svg : 3D isometric contribution calendar
+#  - assets/snake/*.svg       : snake eating the contribution grid
+name: Profile graphics
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # every day at 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-graphics.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake/snake-light.svg?color_snake=#a855f7&color_dots=#ebedf0,#a5f3fc,#22d3ee,#0891b2,#7c3aed
+            assets/snake/snake-dark.svg?palette=github-dark&color_snake=#22d3ee&color_dots=#161b22,#164e63,#0e7490,#22d3ee,#a855f7
+
+      - name: Commit the new graphics
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-3d-contrib assets/snake
+          git diff --cached --quiet || git commit -m "Update profile graphics"
+          git push
