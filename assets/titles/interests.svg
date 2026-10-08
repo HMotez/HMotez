@@ -9,7 +9,7 @@
 <g transform="translate(13 18) scale(1.0833333333333333)" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10" />
   <circle cx="12" cy="12" r="6" />
   <circle cx="12" cy="12" r="2" /></g>
-<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">06</text>
+<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">05</text>
 <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="url(#g)">Interests</text>
 <rect x="68" y="59" width="150.4" height="2.5" rx="1.25" fill="url(#line)"/>
 </svg>

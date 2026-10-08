@@ -12,7 +12,7 @@
   <path d="m22 3-8.646 8.646a.5.5 0 0 1-.708 0L9.354 8.354a.5.5 0 0 0-.707 0L2 15" />
   <path d="M4 18.463V21" />
   <path d="M8 14.656V21" /></g>
-<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">04</text>
+<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">03</text>
 <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="url(#g)">GitHub activity in 3D</text>
 <rect x="68" y="59" width="337.59999999999997" height="2.5" rx="1.25" fill="url(#line)"/>
 </svg>

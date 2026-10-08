@@ -12,7 +12,7 @@
   <path d="M7 2h1" />
   <path d="m22 22-5-10-5 10" />
   <path d="M14 18h6" /></g>
-<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">05</text>
+<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">04</text>
 <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="url(#g)">Languages</text>
 <rect x="68" y="59" width="150.4" height="2.5" rx="1.25" fill="url(#line)"/>
 </svg>

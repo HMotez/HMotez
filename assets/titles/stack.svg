@@ -9,7 +9,7 @@
 <g transform="translate(13 18) scale(1.0833333333333333)" fill="none" stroke="url(#g)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z" />
   <path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12" />
   <path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17" /></g>
-<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">03</text>
+<text x="68" y="25" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="3" fill="#06b6d4">02</text>
 <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="26" font-weight="700" fill="url(#g)">Tech stack</text>
 <rect x="68" y="59" width="166" height="2.5" rx="1.25" fill="url(#line)"/>
 </svg>
